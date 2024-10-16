@@ -27,7 +27,7 @@ for (int i = 0; i < input_len; i++) {
 int main() {
     printf("\n\n\n\n      ***** ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM *****\n\n\n");
     
-char url[] = "SAKTHIVEL";
+char url[] = "SANJEEVRAJ";
 char key[] = "secretkey"; 
 
 printf("Original text: %s\n", url);
@@ -44,8 +44,8 @@ return 0;
 ```
 
 ## OUTPUT:
+![CRY EXP](https://github.com/user-attachments/assets/8ef8d24f-315b-4fa0-b2a4-714daf3d02e9)
 
-![Screenshot 2024-10-08 203541](https://github.com/user-attachments/assets/59be3bb9-517f-4498-b4c0-1411e07f72e8)
 
 ## RESULT: 
 
